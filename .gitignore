@@ -17,7 +17,7 @@ pids
 .eslintcache
 
 # dotenv environment variables file
-
+.env
 
 # OS generated files
 .DS_Store
