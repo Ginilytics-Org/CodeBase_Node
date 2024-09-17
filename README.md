@@ -33,9 +33,9 @@ Before running the project, ensure you have the following installed:
 
 3. **Set up environment variables:**
 
-    Create a `.env` file for environment variable  settings  in the root directory. Use the provided `.env.example` file as a reference.
+    Create a `.env.development` file for development settings and a `.env.production` file for production settings in the root directory. Use the provided `.env.example` file as a reference.
 
-    - **Create a `.env` file** with the following content:
+    - **Create a `.env.example` file** with the following content:
 
       ```ini
       # Common variables
@@ -128,4 +128,4 @@ For development, we use:
 
 ---
 
-Feel free to modify this README as needed. For any questions or issues, please open an issue on the [GitHub repository](https://github.com/your-username/node-demo-app/issues).
+
