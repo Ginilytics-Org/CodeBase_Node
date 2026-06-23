@@ -3,7 +3,7 @@ const nodeExternals = require('webpack-node-externals');
 
 module.exports = {
   // The entry point of your application
-  entry: './src/index.js',
+  entry: './src/index.js', 
 
   // Specify that we're targeting a Node.js environment
   target: 'node',
