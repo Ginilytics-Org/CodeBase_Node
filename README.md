@@ -6,7 +6,7 @@ Welcome to the Node.js Demo Application! This project is a Node.js microservice 
 
 - **PostgreSQL Integration**: Utilizes PostgreSQL for database operations.
 - **Swagger UI**: Provides interactive API documentation.
-- **Environment Configuration**: Supports different configurations for development and production.
+- **Environment Configuration**: Supports different configurations for development and production. 
 
 ## Prerequisites
 
